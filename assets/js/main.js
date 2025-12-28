@@ -14,7 +14,9 @@ $(document).ready(function () {
   });
 
   function loadPage(page) {
+    $('#header').load('asset/header.html');
     $('#content').load('app/' + page + '.php');
+    $('#footer').load('asset/footer.html');
   }
 
     $(document).ajaxStart(function () {
@@ -26,6 +28,9 @@ $(document).ready(function () {
 });
 
 });
+
+//tampilkan header
+//tampilkan footer
 
 // back to top
   const backToTop = document.getElementById("backToTop");
