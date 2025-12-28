@@ -1,5 +1,5 @@
 <div class="container" style="background-image: linear-gradient(rgba(15,81,50,.85),rgba(15,81,50,.85)), url('assets/img/properties/Sampuldepan.jpg'); width: 100%; height: 32rem; background-repeat: no-repeat; background-size: cover;">
-    <div class="row g-3 mt-3 m-1">
+    <div class="row g-3 mt-3">
         <div class="col-6 col-lg-3">
             <div class="card align-items-center text-center" style="width: 14rem; height: 15rem;">
                 <img src="assets/img/properties/fb.png" class="card-img-top justify-content-center mt-2" alt="..." style="width: 5rem; height: 5rem;">
