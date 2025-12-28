@@ -101,14 +101,14 @@ background-repeat: no-repeat;">
         <li class="list-group-item">Akhlak & Tasawuf – Rabu</li>
       </ul>
       <h4 class="section-title">Media Dakwah</h4>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/6D4Sujrw3N0?si=ZH0rQgluTlTcTXnD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
 
   </div>
   <div class="row align-items-center">
-    <h4 class="section-title mt-2">Foto Terbaru</h4>
+    <h4 class="section-title">Foto Terbaru</h4>
     <div class="col-md-12">
             <div class="gallery-container">
               <div class="gallery-grid">
