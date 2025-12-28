@@ -107,8 +107,8 @@ background-repeat: no-repeat;">
     </div>
 
   </div>
-  <div class="row mt-2 align-items-center">
-    <h4 class="section-title">Foto Terbaru</h4>
+  <div class="row align-items-center">
+    <h4 class="section-title mt-2">Foto Terbaru</h4>
     <div class="col-md-12">
             <div class="gallery-container">
               <div class="gallery-grid">
