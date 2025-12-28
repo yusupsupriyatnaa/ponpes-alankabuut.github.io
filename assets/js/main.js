@@ -14,7 +14,9 @@ $(document).ready(function () {
   });
 
   function loadPage(page) {
+    $('#header').load('assets/header.php');
     $('#content').load('app/' + page + '.php');
+    $('#footer').load('assets/footer.php');
   }
 
     $(document).ajaxStart(function () {
